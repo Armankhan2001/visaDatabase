@@ -443,6 +443,78 @@
           ]
         }
       ]
-    }      
+    },
+      {
+      "country": "Azerbaijan",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist eVisa (Popular)",
+              "maxStay": "30 days",
+              "visaValidity": "3 months",
+              "processingTime": "Up to 3 days",
+              "fees": "₹2,899/-",
+              "documentsRequired": [
+                {
+                  "category": "Must have Documents",
+                  "documents": [
+                    { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages.", "icon": "Passport.png" },
+                    { "name": "Photographs", "description": "Recent colour photograph as per specifications.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed eVisa application form.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Supporting Documents by Occupation",
+                  "documents": [
+                    { "name": "If Employed", "description": "Leave sanctioned certificate with company seal; Last 3 months' salary slips.", "icon": "Work.png" },
+                    { "name": "If Self Employed", "description": "Business Registration License / MOA / Partnership Deed; Company’s 6-month stamped bank statement; Last 3 years' company ITR.", "icon": "Business.png" },
+                    { "name": "If Retired", "description": "Pension book or retirement statement.", "icon": "Retired.png" },
+                    { "name": "If Student", "description": "ID card from school, college or institute.", "icon": "Student.png" },
+                    { "name": "If Minor", "description": "Birth certificate; NOC from parent(s) with legalized consent; ID proofs of parents; Death certificate if applicable.", "icon": "Child.png" },
+                    { "name": "If Visiting Friend/Relative", "description": "Invitation letter stating relationship and visit details; Inviter’s Passport/Resident Permit; Utility bill for address proof.", "icon": "Invitation.png" },
+                    { "name": "If Sponsored", "description": "Sponsorship letter; Inviter’s ID and address proof; Proof of financial support (bank statement, pay slips).", "icon": "Sponsor.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business eVisa",
+              "maxStay": "30 days",
+              "visaValidity": "3 months",
+              "processingTime": "Up to 3 days",
+              "fees": "₹2,899/-",
+              "documentsRequired": [
+                {
+                  "category": "Must have Documents",
+                  "documents": [
+                    { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages.", "icon": "Passport.png" },
+                    { "name": "Photographs", "description": "Recent colour photograph as per specifications.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed eVisa application form.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Business Specific Documents",
+                  "documents": [
+                    { "name": "Introduction Letter", "description": "From Chamber of Commerce, Ministry of Commerce, or Export Promotion Council of India.", "icon": "Business.png" },
+                    { "name": "Company Registration Certificate", "description": "From Ministry of Commerce and Industry of India.", "icon": "Document.png" },
+                    { "name": "Company ITR", "description": "Income tax documents of last 3 years.", "icon": "Tax.png" },
+                    { "name": "Covering Letter", "description": "From Indian company, introducing applicant and trip details.", "icon": "Letter.png" },
+                    { "name": "Invitation Letter", "description": "From local partner/prospect company in Azerbaijan.", "icon": "Invitation.png" },
+                    { "name": "Local Partner License Copy", "description": "License (JAWAZ) of local partner/prospect company in Azerbaijan.", "icon": "License.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
