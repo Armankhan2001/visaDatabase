@@ -199,66 +199,22 @@
                 {
                   "category": "Mandatory Documents",
                   "documents": [
-                    {
-                      "name": "Original Passport",
-                      "description": "With at least 6 months validity and 3 blank pages.",
-                      "icon": "Passport.png"
-                    },
-                    {
-                      "name": "Photograph",
-                      "description": "2 recent color photographs as per specification.",
-                      "icon": "Photograph.png"
-                    },
-                    {
-                      "name": "Visa Application Form",
-                      "description": "Completed and signed.",
-                      "icon": "Document.png"
-                    },
-                    {
-                      "name": "Personal Covering Letter",
-                      "description": "Explaining purpose of travel to Albania.",
-                      "icon": "Document.png"
-                    },
-                    {
-                      "name": "Original Bank Statement",
-                      "description": "Last 3 months, stamped and signed.",
-                      "icon": "Bank.png"
-                    },
-                    {
-                      "name": "Air Tickets",
-                      "description": "Proof of return flight tickets.",
-                      "icon": "Flight.png"
-                    },
-                    {
-                      "name": "Hotel Reservation",
-                      "description": "Proof of accommodation for stay.",
-                      "icon": "Hotel.png"
-                    },
-                    {
-                      "name": "Travel Itinerary",
-                      "description": "Day-wise plan for your trip.",
-                      "icon": "Document.png"
-                    }
+                    { "name": "Original Passport", "description": "With at least 6 months validity and 3 blank pages.", "icon": "Passport.png" },
+                    { "name": "Photograph", "description": "2 recent color photographs as per specification.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed.", "icon": "Document.png" },
+                    { "name": "Personal Covering Letter", "description": "Explaining purpose of travel to Albania.", "icon": "Document.png" },
+                    { "name": "Original Bank Statement", "description": "Last 3 months, stamped and signed.", "icon": "Bank.png" },
+                    { "name": "Air Tickets", "description": "Proof of return flight tickets.", "icon": "Flight.png" },
+                    { "name": "Hotel Reservation", "description": "Proof of accommodation for stay.", "icon": "Hotel.png" },
+                    { "name": "Travel Itinerary", "description": "Day-wise plan for your trip.", "icon": "Document.png" }
                   ]
                 },
                 {
                   "category": "Occupation Proof - Employed",
                   "documents": [
-                    {
-                      "name": "Salary Slips",
-                      "description": "Last 3 months salary slips.",
-                      "icon": "Salary.png"
-                    },
-                    {
-                      "name": "NOC from Employer",
-                      "description": "On company letterhead.",
-                      "icon": "Document.png"
-                    },
-                    {
-                      "name": "Employee ID",
-                      "description": "Official company ID card.",
-                      "icon": "IdentityCard.png"
-                    }
+                    { "name": "Salary Slips", "description": "Last 3 months salary slips.", "icon": "Salary.png" },
+                    { "name": "NOC from Employer", "description": "On company letterhead.", "icon": "Document.png" },
+                    { "name": "Employee ID", "description": "Official company ID card.", "icon": "IdentityCard.png" }
                   ]
                 }
               ]
@@ -278,46 +234,14 @@
                 {
                   "category": "Mandatory Documents",
                   "documents": [
-                    {
-                      "name": "Original Passport",
-                      "description": "With at least 6 months validity and 3 blank pages.",
-                      "icon": "Passport.png"
-                    },
-                    {
-                      "name": "Photograph",
-                      "description": "2 recent color photographs as per specification.",
-                      "icon": "Photograph.png"
-                    },
-                    {
-                      "name": "Visa Application Form",
-                      "description": "Completed and signed.",
-                      "icon": "Document.png"
-                    },
-                    {
-                      "name": "Personal Covering Letter",
-                      "description": "Explaining purpose of business travel.",
-                      "icon": "Document.png"
-                    },
-                    {
-                      "name": "Original Bank Statement",
-                      "description": "Last 3 months, stamped and signed.",
-                      "icon": "Bank.png"
-                    },
-                    {
-                      "name": "Air Tickets",
-                      "description": "Proof of return flight tickets.",
-                      "icon": "Flight.png"
-                    },
-                    {
-                      "name": "Hotel Reservation",
-                      "description": "Proof of accommodation for stay.",
-                      "icon": "Hotel.png"
-                    },
-                    {
-                      "name": "Travel Itinerary",
-                      "description": "Day-wise plan for your trip.",
-                      "icon": "Document.png"
-                    }
+                    { "name": "Original Passport", "description": "With at least 6 months validity and 3 blank pages.", "icon": "Passport.png" },
+                    { "name": "Photograph", "description": "2 recent color photographs as per specification.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed.", "icon": "Document.png" },
+                    { "name": "Personal Covering Letter", "description": "Explaining purpose of business travel.", "icon": "Document.png" },
+                    { "name": "Original Bank Statement", "description": "Last 3 months, stamped and signed.", "icon": "Bank.png" },
+                    { "name": "Air Tickets", "description": "Proof of return flight tickets.", "icon": "Flight.png" },
+                    { "name": "Hotel Reservation", "description": "Proof of accommodation for stay.", "icon": "Hotel.png" },
+                    { "name": "Travel Itinerary", "description": "Day-wise plan for your trip.", "icon": "Document.png" }
                   ]
                 }
               ]
