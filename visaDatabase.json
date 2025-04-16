@@ -1,222 +1,53 @@
 {
-    "visaDatabase": [
-      {
-        "country": "Argentina E-Visa",
-        "visaTypes": [
-          {
-            "type": "Tourist Visa",
-            "categories": [
-              {
-                "name": "Tourist Visa - 1 Month",
-                "maxStay": "30 days",
-                "visaValidity": "90 days",
-                "processingTime": "30 working days",
-                "fees": "₹36,830 per pax",
-                "documentsRequired": [
-                  {
-                    "category": "Traveller Details",
-                    "documents": [
-                      {
-                        "name": "Passport Copy",
-                        "description": "The Current & Old Passport must be completely coloured scanned including passport first page, last page, all stamped pages, white and unused pages. Scan must be 300 dpi quality.",
-                        "icon": "Passport.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Travel Details",
-                    "documents": [
-                      {
-                        "name": "Air Tickets",
-                        "description": "Copy of confirmed Arrival and Departure tickets.",
-                        "icon": "Flight.png"
-                      },
-                      {
-                        "name": "Hotel Tickets",
-                        "description": "Copy of confirmed Hotel reservation showcasing address, contact number, applicant's name and reservation dates. All destinations if multiple.",
-                        "icon": "Hotel.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Occupational Details",
-                    "documents": [
-                      {
-                        "name": "Salary Slips",
-                        "description": "Recent salary slips (if employed).",
-                        "icon": "Salary.png"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "country": "Armenia",
-        "visaTypes": [
-          {
-            "type": "Tourist Visa",
-            "categories": [
-              {
-                "name": "Tourist Visa",
-                "maxStay": "21 days",
-                "visaValidity": "90 days",
-                "processingTime": "5 working days",
-                "fees": "₹1,044 per pax",
-                "documentsRequired": [
-                  {
-                    "category": "Traveller Details",
-                    "documents": [
-                      {
-                        "name": "Passport",
-                        "description": "Passport Front and Back.",
-                        "icon": "Passport.png"
-                      },
-                      {
-                        "name": "Photograph",
-                        "description": "35x45 mm, White Background, No specs.",
-                        "icon": "Photograph.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Travel Details",
-                    "documents": [
-                      {
-                        "name": "Flight Tickets",
-                        "description": "Copy of confirmed Air tickets.",
-                        "icon": "Flight.png"
-                      },
-                      {
-                        "name": "Hotel Tickets",
-                        "description": "Confirmed hotel bookings for stay.",
-                        "icon": "Hotel.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Financial Details",
-                    "documents": [
-                      {
-                        "name": "Bank e-Statement",
-                        "description": "3 Months bank statement with a minimum balance of 1.5 Lacs per person.",
-                        "icon": "Bank.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Occupation Proof - Salaried",
-                    "documents": [
-                      {
-                        "name": "Salary Slips",
-                        "description": "Last 3 months salary slips.",
-                        "icon": "Bank.png"
-                      },
-                      {
-                        "name": "Employer NOC",
-                        "description": "NOC from employer on company letterhead.",
-                        "icon": "Document.png"
-                      },
-                      {
-                        "name": "Employee ID/ Visiting Card",
-                        "description": "Company ID card or Visiting card.",
-                        "icon": "IdentityCard.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Occupation Proof - Self Employed",
-                    "documents": [
-                      {
-                        "name": "Cover Letter",
-                        "description": "Cover letter on company letterhead.",
-                        "icon": "Document.png"
-                      },
-                      {
-                        "name": "GST Certificate",
-                        "description": "Business registration certificate.",
-                        "icon": "Business.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Occupation Proof - Retired",
-                    "documents": [
-                      {
-                        "name": "Pension Proof",
-                        "description": "Last 3 months Pension statement or Retirement Certificate.",
-                        "icon": "Retired.png"
-                      }
-                    ]
-                  },
-                  {
-                    "category": "Additional Documents",
-                    "documents": [
-                      {
-                        "name": "Travel Insurance",
-                        "description": "Coverage for the entire travel period.",
-                        "icon": "icon"
-                      },
-                      {
-                        "name": "Visa or Residence Proof",
-                        "description": "Valid visa or residence permit issued by EU, Schengen, USA, UK, Canada, Australia, New Zealand, Japan, Russia, UAE, Saudi Arabia, Kuwait, Qatar, Bahrain or Oman.",
-                        "icon": "icon"
-                      },
-                      {
-                        "name": "Student ID",
-                        "description": "Official School/Institution ID.",
-                        "icon": "IdentityCard.png"
-                      },
-                      {
-                        "name": "Invitation Letter",
-                        "description": "Invitation letter from friends or family in Armenia.",
-                        "icon": "Document.png"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-{
-  "country": "Albania",
-  "visaTypes": [
+  "visaDatabase": [
     {
-      "type": "Tourist Visa",
-      "categories": [
+      "country": "Argentina E-Visa",
+      "visaTypes": [
         {
-          "name": "Tourist Visa (Type C - Short stay Visa)",
-          "maxStay": "30 days",
-          "visaValidity": "6 months",
-          "processingTime": "10 to 15 days",
-          "fees": "₹4,399/-",
-          "documentsRequired": [
+          "type": "Tourist Visa",
+          "categories": [
             {
-              "category": "Mandatory Documents",
-              "documents": [
-                { "name": "Original Passport", "description": "With at least 6 months validity and 3 blank pages.", "icon": "Passport.png" },
-                { "name": "Photograph", "description": "2 recent color photographs as per specification.", "icon": "Photograph.png" },
-                { "name": "Visa Application Form", "description": "Completed and signed.", "icon": "Document.png" },
-                { "name": "Personal Covering Letter", "description": "Explaining purpose of travel to Albania.", "icon": "Document.png" },
-                { "name": "Original Bank Statement", "description": "Last 3 months, stamped and signed.", "icon": "Bank.png" },
-                { "name": "Air Tickets", "description": "Proof of return flight tickets.", "icon": "Flight.png" },
-                { "name": "Hotel Reservation", "description": "Proof of accommodation for stay.", "icon": "Hotel.png" },
-                { "name": "Travel Itinerary", "description": "Day-wise plan for your trip.", "icon": "Document.png" }
-              ]
-            },
-            {
-              "category": "Occupation Proof - Employed",
-              "documents": [
-                { "name": "Salary Slips", "description": "Last 3 months salary slips.", "icon": "Salary.png" },
-                { "name": "NOC from Employer", "description": "On company letterhead.", "icon": "Document.png" },
-                { "name": "Employee ID", "description": "Official company ID card.", "icon": "IdentityCard.png" }
+              "name": "Tourist Visa - 1 Month",
+              "maxStay": "30 days",
+              "visaValidity": "90 days",
+              "processingTime": "30 working days",
+              "fees": "₹36,830 per pax",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "The Current & Old Passport must be completely coloured scanned including passport first page, last page, all stamped pages, white and unused pages. Scan must be 300 dpi quality.",
+                      "icon": "Passport.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Air Tickets",
+                      "description": "Copy of confirmed Arrival and Departure tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Tickets",
+                      "description": "Copy of confirmed Hotel reservation showcasing address, contact number, applicant's name and reservation dates. All destinations if multiple.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupational Details",
+                  "documents": [
+                    {
+                      "name": "Salary Slips",
+                      "description": "Recent salary slips (if employed).",
+                      "icon": "Salary.png"
+                    }
+                  ]
+                }
               ]
             }
           ]
@@ -224,26 +55,271 @@
       ]
     },
     {
-      "type": "Business Visa",
-      "categories": [
+      "country": "Armenia",
+      "visaTypes": [
         {
-          "name": "Business Visa (Type C - Short stay Visa)",
-          "maxStay": "30 days",
-          "visaValidity": "6 months",
-          "processingTime": "10 to 15 days",
-          "fees": "₹4,399/-",
-          "documentsRequired": [
+          "type": "Tourist Visa",
+          "categories": [
             {
-              "category": "Mandatory Documents",
-              "documents": [
-                { "name": "Original Passport", "description": "With at least 6 months validity and 3 blank pages.", "icon": "Passport.png" },
-                { "name": "Photograph", "description": "2 recent color photographs as per specification.", "icon": "Photograph.png" },
-                { "name": "Visa Application Form", "description": "Completed and signed.", "icon": "Document.png" },
-                { "name": "Personal Covering Letter", "description": "Explaining purpose of business travel.", "icon": "Document.png" },
-                { "name": "Original Bank Statement", "description": "Last 3 months, stamped and signed.", "icon": "Bank.png" },
-                { "name": "Air Tickets", "description": "Proof of return flight tickets.", "icon": "Flight.png" },
-                { "name": "Hotel Reservation", "description": "Proof of accommodation for stay.", "icon": "Hotel.png" },
-                { "name": "Travel Itinerary", "description": "Day-wise plan for your trip.", "icon": "Document.png" }
+              "name": "Tourist Visa",
+              "maxStay": "21 days",
+              "visaValidity": "90 days",
+              "processingTime": "5 working days",
+              "fees": "₹1,044 per pax",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport",
+                      "description": "Passport Front and Back.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photograph",
+                      "description": "35x45 mm, White Background, No specs.",
+                      "icon": "Photograph.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Copy of confirmed Air tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Tickets",
+                      "description": "Confirmed hotel bookings for stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Details",
+                  "documents": [
+                    {
+                      "name": "Bank e-Statement",
+                      "description": "3 Months bank statement with a minimum balance of 1.5 Lacs per person.",
+                      "icon": "Bank.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation Proof - Salaried",
+                  "documents": [
+                    {
+                      "name": "Salary Slips",
+                      "description": "Last 3 months salary slips.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Employer NOC",
+                      "description": "NOC from employer on company letterhead.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Employee ID/ Visiting Card",
+                      "description": "Company ID card or Visiting card.",
+                      "icon": "IdentityCard.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation Proof - Self Employed",
+                  "documents": [
+                    {
+                      "name": "Cover Letter",
+                      "description": "Cover letter on company letterhead.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "GST Certificate",
+                      "description": "Business registration certificate.",
+                      "icon": "Business.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation Proof - Retired",
+                  "documents": [
+                    {
+                      "name": "Pension Proof",
+                      "description": "Last 3 months Pension statement or Retirement Certificate.",
+                      "icon": "Retired.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Additional Documents",
+                  "documents": [
+                    {
+                      "name": "Travel Insurance",
+                      "description": "Coverage for the entire travel period.",
+                      "icon": "icon"
+                    },
+                    {
+                      "name": "Visa or Residence Proof",
+                      "description": "Valid visa or residence permit issued by EU, Schengen, USA, UK, Canada, Australia, New Zealand, Japan, Russia, UAE, Saudi Arabia, Kuwait, Qatar, Bahrain or Oman.",
+                      "icon": "icon"
+                    },
+                    {
+                      "name": "Student ID",
+                      "description": "Official School/Institution ID.",
+                      "icon": "IdentityCard.png"
+                    },
+                    {
+                      "name": "Invitation Letter",
+                      "description": "Invitation letter from friends or family in Armenia.",
+                      "icon": "Document.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Albania",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa (Type C - Short stay Visa)",
+              "maxStay": "30 days",
+              "visaValidity": "6 months",
+              "processingTime": "10 to 15 days",
+              "fees": "₹4,399/-",
+              "documentsRequired": [
+                {
+                  "category": "Mandatory Documents",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "With at least 6 months validity and 3 blank pages.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photograph",
+                      "description": "2 recent color photographs as per specification.",
+                      "icon": "Photograph.png"
+                    },
+                    {
+                      "name": "Visa Application Form",
+                      "description": "Completed and signed.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Personal Covering Letter",
+                      "description": "Explaining purpose of travel to Albania.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Original Bank Statement",
+                      "description": "Last 3 months, stamped and signed.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Air Tickets",
+                      "description": "Proof of return flight tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for stay.",
+                      "icon": "Hotel.png"
+                    },
+                    {
+                      "name": "Travel Itinerary",
+                      "description": "Day-wise plan for your trip.",
+                      "icon": "Document.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation Proof - Employed",
+                  "documents": [
+                    {
+                      "name": "Salary Slips",
+                      "description": "Last 3 months salary slips.",
+                      "icon": "Salary.png"
+                    },
+                    {
+                      "name": "NOC from Employer",
+                      "description": "On company letterhead.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Employee ID",
+                      "description": "Official company ID card.",
+                      "icon": "IdentityCard.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visa (Type C - Short stay Visa)",
+              "maxStay": "30 days",
+              "visaValidity": "6 months",
+              "processingTime": "10 to 15 days",
+              "fees": "₹4,399/-",
+              "documentsRequired": [
+                {
+                  "category": "Mandatory Documents",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "With at least 6 months validity and 3 blank pages.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photograph",
+                      "description": "2 recent color photographs as per specification.",
+                      "icon": "Photograph.png"
+                    },
+                    {
+                      "name": "Visa Application Form",
+                      "description": "Completed and signed.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Personal Covering Letter",
+                      "description": "Explaining purpose of business travel.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Original Bank Statement",
+                      "description": "Last 3 months, stamped and signed.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Air Tickets",
+                      "description": "Proof of return flight tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for stay.",
+                      "icon": "Hotel.png"
+                    },
+                    {
+                      "name": "Travel Itinerary",
+                      "description": "Day-wise plan for your trip.",
+                      "icon": "Document.png"
+                    }
+                  ]
+                }
               ]
             }
           ]
@@ -252,5 +328,3 @@
     }
   ]
 }
-
-  
