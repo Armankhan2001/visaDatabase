@@ -308,6 +308,67 @@
           ]
         }
       ]
+    },
+    {
+      "country": "Australia",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "90 Days Tourist Visa",
+              "maxStay": "90 days",
+              "visaValidity": "Upto 1 year",
+              "processingTime": "20-25 working days",
+              "fees": "₹12,999/-",
+              "documentsRequired": [
+                {
+                  "category": "Mandatory Documents",
+                  "documents": [
+                    { "name": "Original Passport", "description": "With at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
+                    { "name": "Notarized Passport Copies", "description": "Notarized copy of all pages of only current passport, including bio data page, alterations and back page.", "icon": "Passport.png" },
+                    { "name": "Visa Application Form", "description": "Completed Australia Visa application form.", "icon": "Document.png" },
+                    { "name": "Photographs", "description": "2 recent colour photographs as per specifications.", "icon": "Photograph.png" },
+                    { "name": "Personal Covering Letter", "description": "For employed - on plain paper. For self-employed - on company letterhead, explaining purpose of travel.", "icon": "Document.png" },
+                    { "name": "Updated Bank Statement", "description": "Original updated Bank Statement for last 6 months.", "icon": "Bank.png" },
+                    { "name": "Income Tax Returns / Form 16", "description": "For last 3 years.", "icon": "Document.png" },
+                    { "name": "Optional Financial Documents", "description": "Supporting financial documents like Fixed Deposits, Property Investments, etc.", "icon": "Bank.png" },
+                    { "name": "Medical & X-Ray Tests", "description": "You may be asked to undergo medical and x-ray examinations as per case officer instructions.", "icon": "Medical.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "90 Days Business Visa",
+              "maxStay": "90 days",
+              "visaValidity": "Upto 1 year",
+              "processingTime": "20-25 working days",
+              "fees": "₹12,999/-",
+              "documentsRequired": [
+                {
+                  "category": "Mandatory Documents",
+                  "documents": [
+                    { "name": "Original Passport", "description": "With at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
+                    { "name": "Notarized Passport Copies", "description": "Notarized copy of all pages of only current passport, including bio data page, alterations and back page.", "icon": "Passport.png" },
+                    { "name": "Visa Application Form", "description": "Completed Australia Visa application form.", "icon": "Document.png" },
+                    { "name": "Photographs", "description": "2 recent colour photographs as per specifications.", "icon": "Photograph.png" },
+                    { "name": "Personal Covering Letter", "description": "For employed - on plain paper. For self-employed - on company letterhead, explaining business purpose.", "icon": "Document.png" },
+                    { "name": "Updated Bank Statement", "description": "Original updated Bank Statement for last 6 months.", "icon": "Bank.png" },
+                    { "name": "Income Tax Returns / Form 16", "description": "For last 3 years.", "icon": "Document.png" },
+                    { "name": "Optional Financial Documents", "description": "Supporting financial documents like Fixed Deposits, Property Investments, etc.", "icon": "Bank.png" },
+                    { "name": "Medical & X-Ray Tests", "description": "You may be asked to undergo medical and x-ray examinations as per case officer instructions.", "icon": "Medical.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
