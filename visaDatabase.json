@@ -515,6 +515,74 @@
           ]
         }
       ]
+    },
+    {
+      "country": "Bangladesh",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa",
+              "maxStay": "60 days",
+              "visaValidity": "N/A",
+              "processingTime": "5-7 days",
+              "fees": "₹1,299/-",
+              "documentsRequired": [
+                {
+                  "category": "Must have Documents",
+                  "documents": [
+                    { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages.", "icon": "Passport.png" },
+                    { "name": "Photographs", "description": "Recent colour photograph as per specifications.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed visa application form.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Supporting Documents by Occupation",
+                  "documents": [
+                    { "name": "If Employed", "description": "Leave sanctioned certificate with company seal; Last 3 months' salary slips.", "icon": "Work.png" },
+                    { "name": "If Self Employed", "description": "Business Registration License / MOA / Partnership Deed; Company’s 6-month stamped bank statement; Last 3 years' company ITR.", "icon": "Business.png" },
+                    { "name": "If Retired", "description": "Pension book or retirement statement.", "icon": "Retired.png" },
+                    { "name": "If Student", "description": "ID card from school, college or institute; Letter from school/university for grant of leave.", "icon": "Student.png" },
+                    { "name": "If Minor", "description": "Birth certificate; NOC from parent(s) with legalized consent; ID proofs of parents.", "icon": "Child.png" },
+                    { "name": "If Visiting Friend/Relative", "description": "Invitation letter from inviter; Inviter’s Passport/Resident Permit; Utility bill for address proof.", "icon": "Invitation.png" },
+                    { "name": "If Sponsored", "description": "Sponsorship letter; Sponsor’s national ID; 6-month updated bank statement.", "icon": "Sponsor.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visa",
+              "maxStay": "180 days",
+              "visaValidity": "N/A",
+              "processingTime": "5-7 days",
+              "fees": "₹1,299/-",
+              "documentsRequired": [
+                {
+                  "category": "Must have Documents",
+                  "documents": [
+                    { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages.", "icon": "Passport.png" },
+                    { "name": "Photographs", "description": "Recent colour photograph as per specifications.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed visa application form.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Business Specific Documents",
+                  "documents": [
+                    { "name": "Invitation Letter", "description": "From business organisation in Bangladesh stating trip purpose.", "icon": "Invitation.png" },
+                    { "name": "Covering Letter", "description": "From Indian company confirming applicant’s designation and travel purpose.", "icon": "Letter.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
