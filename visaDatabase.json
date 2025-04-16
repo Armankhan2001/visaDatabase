@@ -369,6 +369,80 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "country": "Austria",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa (Short term)",
+              "maxStay": "90 days",
+              "visaValidity": "6 months",
+              "processingTime": "10-15 working days",
+              "fees": "₹7,399/-",
+              "documentsRequired": [
+                {
+                  "category": "Must have Documents",
+                  "documents": [
+                    { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
+                    { "name": "Photographs", "description": "2 recent colour photographs as per Austria visa specifications.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Duly filled and signed Austria Visa application form.", "icon": "Document.png" },
+                    { "name": "Personal Covering Letter", "description": "Explaining the purpose of travel and travel itinerary.", "icon": "Document.png" },
+                    { "name": "Updated Bank Statement", "description": "Original, stamped & updated for last 6 months.", "icon": "Bank.png" },
+                    { "name": "Income Tax Returns", "description": "For last 3 years.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Supporting Documents by Occupation",
+                  "documents": [
+                    { "name": "If Employed", "description": "Original Leave sanctioned certificate with company seal and signature; Last 3 months salary slips.", "icon": "Work.png" },
+                    { "name": "If Self Employed", "description": "Business Registration License / MOA / Partnership Deed; Company’s bank statement (6 months); PAN registration.", "icon": "Business.png" },
+                    { "name": "If Retired", "description": "Proof of retirement like pension book or statement.", "icon": "Retired.png" },
+                    { "name": "If Student", "description": "School/College/Institute ID Card and Bonafide certificate.", "icon": "Student.png" },
+                    { "name": "If Minor", "description": "Birth Certificate; No Objection Certificate from parents/non-accompanying parent on Rs 100/- stamp paper; ID proof of parent.", "icon": "Child.png" },
+                    { "name": "If Visiting Friend/Relative", "description": "Invitation letter; Inviter’s ID proof like Passport or Resident Permit; Address proof (electricity bill, utility bill etc.).", "icon": "Invitation.png" },
+                    { "name": "If Sponsored", "description": "Sponsorship letter / Electronic letter of guarantee (EVE) if invited by sponsor in Austria; Sponsor’s national ID proof; Updated 6-month bank statement.", "icon": "Sponsor.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visa (Short term)",
+              "maxStay": "90 days",
+              "visaValidity": "6 months",
+              "processingTime": "10-15 working days",
+              "fees": "₹7,399/-",
+              "documentsRequired": [
+                {
+                  "category": "Must have Documents",
+                  "documents": [
+                    { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
+                    { "name": "Photographs", "description": "2 recent colour photographs as per Austria visa specifications.", "icon": "Photograph.png" },
+                    { "name": "Visa Application Form", "description": "Duly filled and signed Austria Visa application form.", "icon": "Document.png" },
+                    { "name": "Personal Covering Letter", "description": "Explaining purpose of travel and business details.", "icon": "Document.png" },
+                    { "name": "Updated Bank Statement", "description": "Original, stamped & updated for last 6 months.", "icon": "Bank.png" },
+                    { "name": "Income Tax Returns", "description": "For last 3 years.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Business Specific Documents",
+                  "documents": [
+                    { "name": "Invitation Letter from Host Company", "description": "Stating purpose of trip, business details, and duration.", "icon": "Invitation.png" },
+                    { "name": "Company Covering Letter", "description": "From Indian company on company letterhead stating applicant’s designation, travel purpose and financial responsibility.", "icon": "Business.png" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }      
   ]
 }
