@@ -516,28 +516,30 @@
         }
       ]
     },
-    {
+   {
       "country": "Greece",
       "visaTypes": [
         {
           "type": "Tourist Visa",
           "categories": [
             {
-              "name": "Tourist Visa",
+              "name": "Tourist Visa - 90 Days",
               "maxStay": "90 days",
               "visaValidity": "6 months",
               "processingTime": "10-15 days",
               "fees": "₹7,699/-",
               "documentsRequired": [
                 {
-                  "category": "Must have Documents",
+                  "category": "Traveller Details",
                   "documents": [
                     { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
-                    { "name": "Visa Application Form", "description": "Completed and signed visa application form.", "icon": "Document.png" },
                     { "name": "Photographs", "description": "2 recent colour photographs as per specifications.", "icon": "Photograph.png" },
-                    { "name": "Covering Letter", "description": "Personal Covering letter (For Employed - Plain paper / For Self-Employed – Company Letterhead).", "icon": "Letter.png" },
-                    { "name": "Bank Statement", "description": "Original updated Bank Statement (last 6 months).", "icon": "Bank.png" },
-                    { "name": "Income Tax Returns", "description": "Income Tax Returns / Form 16 for last 2 years.", "icon": "Tax.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed visa application form.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
                     { "name": "Flight Reservation", "description": "Confirmed round-trip flight reservation.", "icon": "Flight.png" },
                     { "name": "Hotel Booking", "description": "Confirmed hotel reservation covering entire stay.", "icon": "Hotel.png" },
                     { "name": "Travel Itinerary", "description": "Day-wise planned itinerary of your travel in Greece.", "icon": "Plan.png" },
@@ -545,7 +547,14 @@
                   ]
                 },
                 {
-                  "category": "Supporting Documents by Occupation",
+                  "category": "Financial Documents",
+                  "documents": [
+                    { "name": "Bank Statement", "description": "Original updated Bank Statement (last 6 months).", "icon": "Bank.png" },
+                    { "name": "Income Tax Returns", "description": "Income Tax Returns / Form 16 for last 2 years.", "icon": "Tax.png" }
+                  ]
+                },
+                {
+                  "category": "Occupational Details",
                   "documents": [
                     { "name": "If Employed", "description": "Original Leave sanctioned certificate with company seal and signature; Last 3 months salary slips.", "icon": "Work.png" },
                     { "name": "If Self Employed", "description": "Business Registration License / MOA / Partnership Deed; Company’s updated 6-month bank statement.", "icon": "Business.png" },
@@ -564,21 +573,23 @@
           "type": "Business Visa",
           "categories": [
             {
-              "name": "Business Visa",
+              "name": "Business Visa - 90 Days",
               "maxStay": "90 days",
               "visaValidity": "6 months",
               "processingTime": "10-15 days",
               "fees": "₹7,699/-",
               "documentsRequired": [
                 {
-                  "category": "Must have Documents",
+                  "category": "Traveller Details",
                   "documents": [
                     { "name": "Passport", "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
-                    { "name": "Visa Application Form", "description": "Completed and signed visa application form.", "icon": "Document.png" },
                     { "name": "Photographs", "description": "2 recent colour photographs as per specifications.", "icon": "Photograph.png" },
-                    { "name": "Covering Letter", "description": "Covering letter from Indian company on company letterhead stating purpose and trip details.", "icon": "Letter.png" },
-                    { "name": "Bank Statement", "description": "Original updated Bank Statement (last 6 months).", "icon": "Bank.png" },
-                    { "name": "Income Tax Returns", "description": "Income Tax Returns / Form 16 for last 2 years.", "icon": "Tax.png" },
+                    { "name": "Visa Application Form", "description": "Completed and signed visa application form.", "icon": "Document.png" }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
                     { "name": "Flight Reservation", "description": "Confirmed round-trip flight reservation.", "icon": "Flight.png" },
                     { "name": "Hotel Booking", "description": "Confirmed hotel reservation covering entire stay.", "icon": "Hotel.png" },
                     { "name": "Travel Itinerary", "description": "Day-wise planned itinerary of your business trip.", "icon": "Plan.png" },
@@ -586,10 +597,22 @@
                   ]
                 },
                 {
+                  "category": "Financial Documents",
+                  "documents": [
+                    { "name": "Bank Statement", "description": "Original updated Bank Statement (last 6 months).", "icon": "Bank.png" },
+                    { "name": "Income Tax Returns", "description": "Income Tax Returns / Form 16 for last 2 years.", "icon": "Tax.png" }
+                  ]
+                },
+                {
+                  "category": "Occupational Details",
+                  "documents": [
+                    { "name": "Company Covering Letter", "description": "Covering letter from Indian company on company letterhead confirming designation, travel purpose, and expense details.", "icon": "Letter.png" }
+                  ]
+                },
+                {
                   "category": "Business Specific Documents",
                   "documents": [
-                    { "name": "Invitation Letter", "description": "Invitation letter from host company in Greece stating purpose of trip and business details.", "icon": "Invitation.png" },
-                    { "name": "Company Covering Letter", "description": "Covering letter from Indian company confirming designation, travel purpose, and expense details.", "icon": "Letter.png" }
+                    { "name": "Invitation Letter", "description": "Invitation letter from host company in Greece stating purpose of trip and business details.", "icon": "Invitation.png" }
                   ]
                 }
               ]
