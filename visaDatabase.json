@@ -859,6 +859,224 @@
           ]
         }
       ]
-    }  
+    },
+        {
+      "country": "Turkey",
+      "visaTypes": [
+        {
+          "type": "Tourist Sticker Visa",
+          "categories": [
+            {
+              "categoryName": "Tourist",
+              "maxStay": "As per visa approval",
+              "visaValidity": "As per visa approval",
+              "processingTime": "15-20 working days",
+              "fees": "Varies",
+              "documentsRequired": [
+                {
+                  "category": "Passport",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Passport valid for at least 6 months upon arrival in Türkiye with 2 blank pages.",
+                      "icon": "passport"
+                    },
+                    {
+                      "name": "Passport Copies",
+                      "description": "Copies of first, last and visa pages of the passport.",
+                      "icon": "copy"
+                    },
+                    {
+                      "name": "Previous Passport",
+                      "description": "Original previous passport(s). If lost, police FIR document is required.",
+                      "icon": "passport"
+                    }
+                  ]
+                },
+                {
+                  "category": "Photograph",
+                  "documents": [
+                    {
+                      "name": "Biometric Photos",
+                      "description": "2 biometric photos (2.5 x 2.5 inch) with white background, no shadow, no spectacles.",
+                      "icon": "photo"
+                    }
+                  ]
+                },
+                {
+                  "category": "Covering & Employer Letters",
+                  "documents": [
+                    {
+                      "name": "Covering Letter",
+                      "description": "Detailed covering letter with travel plan, purpose, accompanying persons, expenses, and contact details.",
+                      "icon": "letter"
+                    },
+                    {
+                      "name": "Leave/No Objection Letter",
+                      "description": "Original leave letter from employer or NOC from school/college (if student).",
+                      "icon": "letter"
+                    }
+                  ]
+                },
+                {
+                  "category": "Invitation",
+                  "documents": [
+                    {
+                      "name": "Invitation Letter",
+                      "description": "If visiting a resident in Türkiye, invitation letter with inviter’s ID, passport copy, residence permit, address, and contact number.",
+                      "icon": "letter"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial",
+                  "documents": [
+                    {
+                      "name": "Salary Slips",
+                      "description": "Last 3 months' salary slips signed and stamped.",
+                      "icon": "salary"
+                    },
+                    {
+                      "name": "Salary Bank Statement",
+                      "description": "Last 6 months' salary account statement with bank seal and signature.",
+                      "icon": "bank"
+                    },
+                    {
+                      "name": "Personal Bank Statement",
+                      "description": "Last 6 months' personal account statement with minimum ₹1 lakh balance.",
+                      "icon": "bank"
+                    },
+                    {
+                      "name": "ITR",
+                      "description": "Income Tax Returns for last 3 years or explanation if unavailable.",
+                      "icon": "itr"
+                    },
+                    {
+                      "name": "Form 16",
+                      "description": "Applicable for salaried applicants only.",
+                      "icon": "form"
+                    },
+                    {
+                      "name": "Sponsorship Documents",
+                      "description": "If sponsored, letter from sponsor with financial proof and relationship document.",
+                      "icon": "sponsor"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Round trip confirmed/reservation tickets.",
+                      "icon": "flight"
+                    },
+                    {
+                      "name": "Hotel Booking",
+                      "description": "Hotel reservation with applicant details, check-in/out dates.",
+                      "icon": "hotel"
+                    },
+                    {
+                      "name": "Travel Insurance",
+                      "description": "Insurance covering entire Türkiye stay (to be provided at submission).",
+                      "icon": "insurance"
+                    }
+                  ]
+                },
+                {
+                  "category": "Civil & Identity",
+                  "documents": [
+                    {
+                      "name": "Aadhar & PAN",
+                      "description": "Copy of Aadhar and PAN Card (clearly visible).",
+                      "icon": "id"
+                    }
+                  ]
+                },
+                {
+                  "category": "Authorization",
+                  "documents": [
+                    {
+                      "name": "Authorization Letter",
+                      "description": "Original signed authorization letter if submitted via agent/representative.",
+                      "icon": "letter"
+                    }
+                  ]
+                },
+                {
+                  "category": "Additional",
+                  "documents": [
+                    {
+                      "name": "Tour Itinerary",
+                      "description": "Optional tour plan/itinerary.",
+                      "icon": "plan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "eVisa",
+          "categories": [
+            {
+              "categoryName": "30 days Tourist/Business eVisa",
+              "maxStay": "30 days",
+              "visaValidity": "6 months",
+              "processingTime": "3-5 days",
+              "fees": "₹5,499/-",
+              "documentsRequired": [
+                {
+                  "category": "Passport",
+                  "documents": [
+                    {
+                      "name": "Scanned Passport",
+                      "description": "First and last page of passport (clear scan).",
+                      "icon": "passport"
+                    }
+                  ]
+                },
+                {
+                  "category": "Photograph",
+                  "documents": [
+                    {
+                      "name": "Photograph",
+                      "description": "2 recent color photographs against white background.",
+                      "icon": "photo"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed return flight tickets.",
+                      "icon": "flight"
+                    },
+                    {
+                      "name": "Hotel Booking",
+                      "description": "Confirmed hotel booking/reservation.",
+                      "icon": "hotel"
+                    }
+                  ]
+                },
+                {
+                  "category": "Supporting Visa",
+                  "documents": [
+                    {
+                      "name": "Valid Visa/Residence Permit",
+                      "description": "UK / USA / Schengen / Ireland valid visa or residence permit.",
+                      "icon": "visa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
