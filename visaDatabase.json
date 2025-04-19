@@ -868,10 +868,10 @@
           "categories": [
             {
               "categoryName": "Tourist",
-              "maxStay": "As per visa approval",
-              "visaValidity": "As per visa approval",
-              "processingTime": "15-20 working days",
-              "fees": "Varies",
+              "maxStay": "30 days",
+              "visaValidity": "90 days",
+              "processingTime": "25-30 working days",
+              "fees": "18899/varies",
               "documentsRequired": [
                 {
                   "category": "Passport",
@@ -1063,7 +1063,7 @@
                   ]
                 },
                 {
-                  "category": "Supporting Visa",
+                  "category": "Supporting Visa Mandatory",
                   "documents": [
                     {
                       "name": "Valid Visa/Residence Permit",
