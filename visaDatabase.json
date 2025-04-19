@@ -620,6 +620,245 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "country": "Vietnam",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa - 1 Month",
+              "maxStay": "30 days",
+              "visaValidity": "90 days",
+              "processingTime": "3 working days",
+              "fees": "₹2,100 per pax",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "Scanned copy of the passport's bio-data page with at least 6 months validity.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Passport-sized Photo",
+                      "description": "Recent color photograph with white background.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed round-trip flight bookings.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for the duration of stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Sri Lanka",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "ETA - 30 Days",
+              "maxStay": "30 days",
+              "visaValidity": "6 months",
+              "processingTime": "24 hours",
+              "fees": "Free",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "Scanned copy of the passport's bio-data page with at least 6 months validity.",
+                      "icon": "Passport.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed round-trip flight bookings.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for the duration of stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Uzbekistan",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa - 30 Days",
+              "maxStay": "30 days",
+              "visaValidity": "90 days",
+              "processingTime": "2 working days",
+              "fees": "₹1,700 per pax",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "Scanned copy of the passport's bio-data page with at least 6 months validity.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Passport-sized Photo",
+                      "description": "Recent color photograph with white background.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed round-trip flight bookings.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for the duration of stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Thailand",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa - 15 Days",
+              "maxStay": "15 days",
+              "visaValidity": "30 days",
+              "processingTime": "1-3 working days",
+              "fees": "₹2,500 per pax",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "Scanned copy of the passport's bio-data page with at least 6 months validity.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Passport-sized Photo",
+                      "description": "Recent color photograph with white background.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed round-trip flight bookings.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for the duration of stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Kenya",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa - 90 Days",
+              "maxStay": "90 days",
+              "visaValidity": "90 days",
+              "processingTime": "2-3 working days",
+              "fees": "₹3,000 per pax",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "Scanned copy of the passport's bio-data page with at least 6 months validity.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Passport-sized Photo",
+                      "description": "Recent color photograph with white background.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed round-trip flight bookings.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Reservation",
+                      "description": "Proof of accommodation for the duration of stay.",
+                      "icon": "Hotel.png"}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }  
   ]
 }
