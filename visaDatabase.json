@@ -867,7 +867,7 @@
           "type": "Tourist Sticker Visa",
           "categories": [
             {
-              "categoryName": "Tourist",
+               "name": "Tourist Visa - 30 Days",
               "maxStay": "30 days",
               "visaValidity": "90 days",
               "processingTime": "25-30 working days",
