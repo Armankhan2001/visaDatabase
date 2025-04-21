@@ -1021,7 +1021,7 @@
           "type": "eVisa",
           "categories": [
             {
-              "categoryName": "30 days Tourist/Business eVisa",
+               "name": "Tourist Visa - 30 Days",
               "maxStay": "30 days",
               "visaValidity": "6 months",
               "processingTime": "3-5 days",
