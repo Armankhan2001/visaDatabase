@@ -1208,6 +1208,149 @@
           ]
         }
       ]
+    },
+    {
+      "country": "United States",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Visitor Visa - B2",
+              "maxStay": "As permitted by the Officer",
+              "visaValidity": "Up to 10 years (Multiple Entry)",
+              "processingTime": "Varies as per appointment availability",
+              "fees": "16,000 + Service Charge + GST",
+              "documentsRequired": [
+                {
+                  "category": "Basic Documents",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Passport with at least 6 months validity and minimum 3 blank pages, including all old passports.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "DS-160 Form",
+                      "description": "Printout of the DS-160 confirmation page with barcode.",
+                      "icon": "Form.png"
+                    },
+                    {
+                      "name": "Appointment Confirmation",
+                      "description": "Interview appointment confirmation page.",
+                      "icon": "Appointment.png"
+                    },
+                    {
+                      "name": "Visa Fee Receipt",
+                      "description": "US Visa MRV fee payment receipt.",
+                      "icon": "Receipt.png"
+                    },
+                    {
+                      "name": "Photographs",
+                      "description": "2 recent color photographs as per US visa photo specifications.",
+                      "icon": "Photo.png"
+                    },
+                    {
+                      "name": "Covering Letter",
+                      "description": "Personal covering letter (plain paper for employed/self letterhead if self-employed).",
+                      "icon": "Letter.png"
+                    },
+                    {
+                      "name": "Bank Statements",
+                      "description": "Original updated personal bank statement for the last 6 months with sufficient funds.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Income Tax Returns",
+                      "description": "ITR/Form 16 for last 3 years.",
+                      "icon": "ITR.png"
+                    },
+                    {
+                      "name": "Financial Assets (Optional)",
+                      "description": "Fixed Deposits, Property Papers, Recurring Deposits, Investments (optional but recommended).",
+                      "icon": "Finance.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation-Based Documents",
+                  "documents": [
+                    {
+                      "name": "If Employed",
+                      "description": "Leave sanctioned certificate with seal and signature, last 3 months salary slips.",
+                      "icon": "Work.png"
+                    },
+                    {
+                      "name": "If Self-Employed",
+                      "description": "Business registration, last 6 months company bank statement, company’s IT returns for 3 years.",
+                      "icon": "Business.png"
+                    },
+                    {
+                      "name": "If Retired",
+                      "description": "Retirement proof like pension book or pension statement.",
+                      "icon": "Retired.png"
+                    },
+                    {
+                      "name": "If Student",
+                      "description": "School/college ID card and bonafide certificate.",
+                      "icon": "Student.png"
+                    },
+                    {
+                      "name": "If Minor",
+                      "description": "Birth certificate, NOC from parents on ₹100 stamp paper, parent's ID proof (Passport or PAN).",
+                      "icon": "Child.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Visit Purpose Documents",
+                  "documents": [
+                    {
+                      "name": "If Visiting Friends/Relatives",
+                      "description": "Invitation letter, inviter's ID proof (Passport/Resident Permit), and utility bill as address proof.",
+                      "icon": "Invitation.png"
+                    },
+                    {
+                      "name": "If Sponsored",
+                      "description": "Sponsorship letter, sponsor's ID, last 6 months bank statement, ITRs of last 3 years.",
+                      "icon": "Sponsor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visa - B1",
+              "maxStay": "As permitted by the Officer",
+              "visaValidity": "Up to 10 years (Multiple Entry)",
+              "processingTime": "Varies as per appointment availability",
+              "fees": "16,000 + Service Charge + GST",
+              "documentsRequired": [
+                {
+                  "category": "Business Visit Documents",
+                  "documents": [
+                    {
+                      "name": "Invitation Letter",
+                      "description": "Invitation from host company in the US stating purpose and trip details.",
+                      "icon": "Invitation.png"
+                    },
+                    {
+                      "name": "Covering Letter",
+                      "description": "Covering letter from Indian company on letterhead explaining business purpose.",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
