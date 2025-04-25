@@ -1172,7 +1172,15 @@
                       "name": "If Sponsored",
                       "description": "Sponsor letter, sponsor’s ID, 6 months bank statement, and ITRs of 3 years.",
                       "icon": "Sponsor.png"
-                    }
+                    },
+                     {
+                  "category": "Canada Visa With Valid USA Non-Immigrant Visa",
+                  "documents": [
+                    {
+                      "name": "For Indian Passport Holders Only",
+                      "description": "Passport, Passport Used To Issue USA Visa, aadhar Card Or Pan Card as national Identity Number",
+                      "icon": "Invitation.png"
+                    },
                   ]
                 }
               ]
