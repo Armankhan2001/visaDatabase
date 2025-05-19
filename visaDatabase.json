@@ -1358,4 +1358,165 @@
       ]
     }
   ]
+},
+{
+      "country": "Japan",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa - Single/Multiple Entry",
+              "maxStay": "As per Embassy",
+              "visaValidity": "Up to 90 days",
+              "processingTime": "4-5 working days",
+              "fees": "₹4,999/-",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photographs",
+                      "description": "2 recent color photographs as per Japan photo specifications.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Forms & Covering Letters",
+                  "documents": [
+                    {
+                      "name": "Visa Application Form",
+                      "description": "Duly filled Japan visa application form.",
+                      "icon": "Form.png"
+                    },
+                    {
+                      "name": "Covering Letter",
+                      "description": "Personal covering letter on plain paper (if employed) or letterhead (if self-employed).",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statement",
+                      "description": "Original updated bank statements with sufficient balance for last 6 months.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Income Tax Returns",
+                      "description": "ITR or Form 16 for last 3 years.",
+                      "icon": "Tax.png"
+                    },
+                    {
+                      "name": "Optional Financial Proof",
+                      "description": "Supporting documents such as Fixed Deposits, Property, or Other Investments.",
+                      "icon": "Investment.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed return flight tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Booking",
+                      "description": "Hotel reservation covering full stay duration.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visa - Single/Multiple Entry",
+              "maxStay": "As per Embassy",
+              "visaValidity": "Up to 90 days",
+              "processingTime": "4-5 working days",
+              "fees": "₹4,999/-",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photographs",
+                      "description": "2 recent color photographs as per Japan photo specifications.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Forms & Covering Letters",
+                  "documents": [
+                    {
+                      "name": "Visa Application Form",
+                      "description": "Duly filled Japan visa application form.",
+                      "icon": "Form.png"
+                    },
+                    {
+                      "name": "Covering Letter",
+                      "description": "Business covering letter from employer/company on letterhead stating purpose of visit.",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial & Invitation Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statement",
+                      "description": "Original updated bank statements for last 6 months with sufficient balance.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Invitation Letter",
+                      "description": "Invitation from Japanese company mentioning details of business and duration of visit.",
+                      "icon": "Invitation.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Flight Tickets",
+                      "description": "Confirmed return flight tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Booking",
+                      "description": "Hotel reservation for full stay or accommodation arranged by inviting company.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
+
