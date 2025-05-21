@@ -1516,4 +1516,149 @@
       ]
     }
   ]
+},
+{
+      "country": "Egypt",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist Visa - Single Entry",
+              "maxStay": "30 days",
+              "visaValidity": "30 days",
+              "processingTime": "7-10 working days",
+              "fees": "₹3000- Visa Fees + Service Charge + Gst",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photographs",
+                      "description": "2 recent colour photographs with white background and matt finish as per specification.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Forms & Covering Letters",
+                  "documents": [
+                    {
+                      "name": "Visa Application Form",
+                      "description": "Completed and signed Egypt visa application form.",
+                      "icon": "Form.png"
+                    },
+                    {
+                      "name": "Covering Letter",
+                      "description": "Personal covering letter explaining purpose of visit.",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statement",
+                      "description": "Original stamped bank statements for last 6 months with sufficient balance.",
+                      "icon": "Bank.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Air Tickets",
+                      "description": "Confirmed return flight tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Booking",
+                      "description": "Confirmed hotel reservations for entire stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visa - Multiple Entry",
+              "maxStay": "30 days",
+              "visaValidity": "30 days",
+              "processingTime": "7-10 working days",
+              "fees": "₹6000/- Visa Fees + Service Charge + Gst",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photographs",
+                      "description": "2 recent colour photographs with white background and matt finish as per specification.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Forms & Covering Letters",
+                  "documents": [
+                    {
+                      "name": "Visa Application Form",
+                      "description": "Completed and signed Egypt visa application form.",
+                      "icon": "Form.png"
+                    },
+                    {
+                      "name": "Covering Letter",
+                      "description": "Business covering letter stating purpose of trip and applicant's designation.",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statement",
+                      "description": "Original stamped bank statements for last 6 months with sufficient balance.",
+                      "icon": "Bank.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Air Tickets",
+                      "description": "Confirmed return flight tickets.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Hotel Booking",
+                      "description": "Confirmed hotel reservations for entire stay.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
