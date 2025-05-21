@@ -1657,6 +1657,40 @@
           ]
         }
       ]
+    },
+    {
+      "country": "Vietnam",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Tourist eVisa - Single Entry",
+              "maxStay": "30 days",
+              "visaValidity": "30 days",
+              "processingTime": "4-5 working days",
+              "fees": "₹2,999/-",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport Copy",
+                      "description": "Scanned colour copy of first and last page of your passport.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photograph",
+                      "description": "Scanned recent colour passport size photograph with white background.",
+                      "icon": "Photo.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
