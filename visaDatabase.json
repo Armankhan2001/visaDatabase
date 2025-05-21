@@ -622,55 +622,6 @@
       ]
     },
     {
-      "country": "Vietnam",
-      "visaTypes": [
-        {
-          "type": "Tourist Visa",
-          "categories": [
-            {
-              "name": "Tourist Visa - 1 Month",
-              "maxStay": "30 days",
-              "visaValidity": "90 days",
-              "processingTime": "3 working days",
-              "fees": "₹2,100 per pax",
-              "documentsRequired": [
-                {
-                  "category": "Traveller Details",
-                  "documents": [
-                    {
-                      "name": "Passport Copy",
-                      "description": "Scanned copy of the passport's bio-data page with at least 6 months validity.",
-                      "icon": "Passport.png"
-                    },
-                    {
-                      "name": "Passport-sized Photo",
-                      "description": "Recent color photograph with white background.",
-                      "icon": "Photo.png"
-                    }
-                  ]
-                },
-                {
-                  "category": "Travel Details",
-                  "documents": [
-                    {
-                      "name": "Flight Tickets",
-                      "description": "Confirmed round-trip flight bookings.",
-                      "icon": "Flight.png"
-                    },
-                    {
-                      "name": "Hotel Reservation",
-                      "description": "Proof of accommodation for the duration of stay.",
-                      "icon": "Hotel.png"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "country": "Sri Lanka",
       "visaTypes": [
         {
@@ -1669,7 +1620,7 @@
               "maxStay": "30 days",
               "visaValidity": "30 days",
               "processingTime": "4-5 working days",
-              "fees": "₹2,999/-",
+              "fees": "₹2,999/- visa fees + Service charge + Gst",
               "documentsRequired": [
                 {
                   "category": "Traveller Details",
