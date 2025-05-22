@@ -325,8 +325,7 @@
                 {
                   "category": "Mandatory Documents",
                   "documents": [
-                    { "name": "Original Passport", "description": "With at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
-                    { "name": "Notarized Passport Copies", "description": "Notarized copy of all pages of only current passport, including bio data page, alterations and back page.", "icon": "Passport.png" },
+                    { "name": "Passport Copy", "description": "With at least 6 months validity and minimum 3 blank pages + all old passports if any.", "icon": "Passport.png" },
                     { "name": "Visa Application Form", "description": "Completed Australia Visa application form.", "icon": "Document.png" },
                     { "name": "Photographs", "description": "2 recent colour photographs as per specifications.", "icon": "Photograph.png" },
                     { "name": "Personal Covering Letter", "description": "For employed - on plain paper. For self-employed - on company letterhead, explaining purpose of travel.", "icon": "Document.png" },
