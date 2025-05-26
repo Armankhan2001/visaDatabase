@@ -1643,31 +1643,56 @@
             }
           ]
         },
-         {
+        {
       "country": "United Kingdom",
       "visaTypes": [
         {
-          "type": "Tourist Visa",
+          "type": "6 Months Short Term Visa",
           "categories": [
             {
-              "name": "Standard Visitor Visa",
+              "name": "6 Months Short Term Visa",
               "maxStay": "6 months",
               "visaValidity": "6 months",
-              "processingTime": "15 working days",
-              "fees": "₹10,000 approx (subject to change)",
+              "processingTime": "20 to 30 days",
+              "fees": "₹15,999/- Visa Fees + Service Charge + Gst",
               "documentsRequired": [
                 {
                   "category": "Traveller Details",
                   "documents": [
                     {
-                      "name": "Passport",
-                      "description": "Valid passport with at least one blank page and minimum 6 months validity.",
+                      "name": "Original Passport",
+                      "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
                       "icon": "Passport.png"
                     },
                     {
-                      "name": "Photograph",
-                      "description": "Recent passport-sized photograph as per UK visa guidelines.",
+                      "name": "Photographs",
+                      "description": "2 recent colour photographs (Photo Specification).",
                       "icon": "Photograph.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Application Documents",
+                  "documents": [
+                    {
+                      "name": "Online UK Visa Application Form",
+                      "description": "Completed online visa application form.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Appointment Letter Confirmation",
+                      "description": "Confirmation of your visa appointment.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "UK Visa Fee Payment Receipt",
+                      "description": "Receipt of payment for visa fees.",
+                      "icon": "Receipt.png"
+                    },
+                    {
+                      "name": "Personal Covering Letter",
+                      "description": "For employed: Plain paper; For self-employed: Letterhead.",
+                      "icon": "Letter.png"
                     }
                   ]
                 },
@@ -1676,42 +1701,27 @@
                   "documents": [
                     {
                       "name": "Bank Statements",
-                      "description": "Bank statements for last 6 months showing sufficient funds for stay and travel.",
+                      "description": "Original updated Bank Statement with sufficient bank balance (last 6 months).",
                       "icon": "Bank.png"
                     },
                     {
-                      "name": "Income Proof",
-                      "description": "Salary slips or proof of income for last 6 months.",
-                      "icon": "Salary.png"
+                      "name": "Income Tax Returns / Form 16",
+                      "description": "Income Tax Returns / Form 16 for last 3 years.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Supporting Financial Documents",
+                      "description": "Such as Fixed Deposits, Property Investments, Recurring Deposits, any other Investments etc. (Optional but advisable).",
+                      "icon": "Investment.png"
                     }
                   ]
                 },
                 {
-                  "category": "Travel Details",
+                  "category": "Occupation Specific Documents",
                   "documents": [
                     {
-                      "name": "Travel Itinerary",
-                      "description": "Confirmed return flight tickets and travel itinerary.",
-                      "icon": "Flight.png"
-                    },
-                    {
-                      "name": "Accommodation Proof",
-                      "description": "Hotel bookings or invitation letter from host.",
-                      "icon": "Hotel.png"
-                    }
-                  ]
-                },
-                {
-                  "category": "Additional Documents",
-                  "documents": [
-                    {
-                      "name": "Cover Letter",
-                      "description": "Cover letter explaining purpose of visit and travel plans.",
-                      "icon": "Letter.png"
-                    },
-                    {
-                      "name": "Employment Proof",
-                      "description": "NOC from employer or business registration documents if self-employed.",
+                      "name": "Supporting Documents",
+                      "description": "Supporting documents as per your occupation and type of visit.",
                       "icon": "Document.png"
                     }
                   ]
@@ -1721,42 +1731,52 @@
           ]
         },
         {
-          "type": "Business Visa",
+          "type": "2 Years Long Term Visa",
           "categories": [
             {
-              "name": "Business Visitor Visa",
+              "name": "2 Years Long Term Visa",
               "maxStay": "6 months",
-              "visaValidity": "6 months",
-              "processingTime": "15 working days",
-              "fees": "₹10,000 approx (subject to change)",
+              "visaValidity": "2 years",
+              "processingTime": "30 to 30 days",
+              "fees": "₹47,899/- Visa Fees + Service Charge + Gst",
               "documentsRequired": [
                 {
                   "category": "Traveller Details",
                   "documents": [
                     {
-                      "name": "Passport",
-                      "description": "Valid passport with at least one blank page and minimum 6 months validity.",
+                      "name": "Original Passport",
+                      "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
                       "icon": "Passport.png"
                     },
                     {
-                      "name": "Photograph",
-                      "description": "Recent passport-sized photograph as per UK visa guidelines.",
+                      "name": "Photographs",
+                      "description": "2 recent colour photographs (Photo Specification).",
                       "icon": "Photograph.png"
                     }
                   ]
                 },
                 {
-                  "category": "Business Documents",
+                  "category": "Application Documents",
                   "documents": [
                     {
-                      "name": "Invitation Letter",
-                      "description": "Letter from UK company or organisation detailing business purpose.",
-                      "icon": "Letter.png"
+                      "name": "Online UK Visa Application Form",
+                      "description": "Completed online visa application form.",
+                      "icon": "Document.png"
                     },
                     {
-                      "name": "Business Registration",
-                      "description": "Proof of business registration and ownership (if applicable).",
+                      "name": "Appointment Letter Confirmation",
+                      "description": "Confirmation of your visa appointment.",
                       "icon": "Document.png"
+                    },
+                    {
+                      "name": "UK Visa Fee Payment Receipt",
+                      "description": "Receipt of payment for visa fees.",
+                      "icon": "Receipt.png"
+                    },
+                    {
+                      "name": "Personal Covering Letter",
+                      "description": "For employed: Plain paper; For self-employed: Letterhead.",
+                      "icon": "Letter.png"
                     }
                   ]
                 },
@@ -1765,23 +1785,196 @@
                   "documents": [
                     {
                       "name": "Bank Statements",
-                      "description": "Bank statements for last 6 months showing sufficient funds.",
+                      "description": "Original updated Bank Statement with sufficient bank balance (last 6 months).",
                       "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Income Tax Returns / Form 16",
+                      "description": "Income Tax Returns / Form 16 for last 3 years.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Supporting Financial Documents",
+                      "description": "Such as Fixed Deposits, Property Investments, Recurring Deposits, any other Investments etc. (Optional but advisable).",
+                      "icon": "Investment.png"
                     }
                   ]
                 },
                 {
-                  "category": "Travel Details",
+                  "category": "Occupation Specific Documents",
                   "documents": [
                     {
-                      "name": "Travel Itinerary",
-                      "description": "Confirmed return flight tickets and travel itinerary.",
-                      "icon": "Flight.png"
+                      "name": "Supporting Documents",
+                      "description": "Supporting documents as per your occupation and type of visit.",
+                      "icon": "Document.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "5 Years Long Term Visa",
+          "categories": [
+            {
+              "name": "5 Years Long Term Visa",
+              "maxStay": "6 months",
+              "visaValidity": "5 years",
+              "processingTime": "20 to 30 days",
+              "fees": "₹88,799/- Visa Fees + Service Charge + Gst",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
+                      "icon": "Passport.png"
                     },
                     {
-                      "name": "Accommodation Proof",
-                      "description": "Hotel bookings or invitation letter from host.",
-                      "icon": "Hotel.png"
+                      "name": "Photographs",
+                      "description": "2 recent colour photographs (Photo Specification).",
+                      "icon": "Photograph.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Application Documents",
+                  "documents": [
+                    {
+                      "name": "Online UK Visa Application Form",
+                      "description": "Completed online visa application form.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Appointment Letter Confirmation",
+                      "description": "Confirmation of your visa appointment.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "UK Visa Fee Payment Receipt",
+                      "description": "Receipt of payment for visa fees.",
+                      "icon": "Receipt.png"
+                    },
+                    {
+                      "name": "Personal Covering Letter",
+                      "description": "For employed: Plain paper; For self-employed: Letterhead.",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statements",
+                      "description": "Original updated Bank Statement with sufficient bank balance (last 6 months).",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Income Tax Returns / Form 16",
+                      "description": "Income Tax Returns / Form 16 for last 3 years.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Supporting Financial Documents",
+                      "description": "Such as Fixed Deposits, Property Investments, Recurring Deposits, any other Investments etc. (Optional but advisable).",
+                      "icon": "Investment.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation Specific Documents",
+                  "documents": [
+                    {
+                      "name": "Supporting Documents",
+                      "description": "Supporting documents as per your occupation and type of visit.",
+                      "icon": "Document.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "10 Years Long Term Visa",
+          "categories": [
+            {
+              "name": "10 Years Long Term Visa",
+              "maxStay": "6 months",
+              "visaValidity": "10 years",
+              "processingTime": "20 to 30 days",
+              "fees": "₹1,09,899/- Visa Fees + Service Charge + Gst",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Original Passport",
+                      "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photographs",
+                      "description": "2 recent colour photographs (Photo Specification).",
+                      "icon": "Photograph.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Application Documents",
+                  "documents": [
+                    {
+                      "name": "Online UK Visa Application Form",
+                      "description": "Completed online visa application form.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Appointment Letter Confirmation",
+                      "description": "Confirmation of your visa appointment.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "UK Visa Fee Payment Receipt",
+                      "description": "Receipt of payment for visa fees.",
+                      "icon": "Receipt.png"
+                    },
+                    {
+                      "name": "Personal Covering Letter",
+                      "description": "For employed: Plain paper; For self-employed: Letterhead.",
+                      "icon": "Letter.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statements",
+                      "description": "Original updated Bank Statement with sufficient bank balance (last 6 months).",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Income Tax Returns / Form 16",
+                      "description": "Income Tax Returns / Form 16 for last 3 years.",
+                      "icon": "Document.png"
+                    },
+                    {
+                      "name": "Supporting Financial Documents",
+                      "description": "Such as Fixed Deposits, Property Investments, Recurring Deposits, any other Investments etc. (Optional but advisable).",
+                      "icon": "Investment.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Occupation Specific Documents",
+                  "documents": [
+                    {
+                      "name": "Supporting Documents",
+                      "description": "Supporting documents as per your occupation and type of visit.",
+                      "icon": "Document.png"
                     }
                   ]
                 }
@@ -1793,4 +1986,3 @@
     }
   ]
 }
-
