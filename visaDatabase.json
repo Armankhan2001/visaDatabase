@@ -1644,113 +1644,153 @@
           ]
         },
          {
-    "country": "United Kingdom",
-    "visaTypes": [
-      {
-        "type": "Tourist Visa",
-        "categories": [
-          {
-            "name": "6 Months Short Term Visa",
-            "maxStay": "6 months",
-            "visaValidity": "6 months",
-            "processingTime": "25-30 working days",
-            "fees": "₹15,999/- Visa Fees + Service Fees + Gst",
-            "documentsRequired": [
-              {
-                "category": "Traveller Details",
-                "documents": [
-                  {
-                    "name": "Passport Copy",
-                    "description": "Original Passport with at least 6 months validity and minimum 3 blank pages + all old passports if any.",
-                    "icon": "Passport.png"
-                  },
-                  {
-                    "name": "Photographs",
-                    "description": "2 recent colour photographs (Photo Specification).",
-                    "icon": "Photo.png"
-                  }
-                ]
-              },
-              {
-                "category": "Application Documents",
-                "documents": [
-                  {
-                    "name": "UK Visa Application Form",
-                    "description": "Completed Online UK Visa Application form.",
-                    "icon": "Form.png"
-                  },
-                  {
-                    "name": "Appointment Letter",
-                    "description": "Appointment letter confirmation.",
-                    "icon": "Appointment.png"
-                  },
-                  {
-                    "name": "Visa Fee Receipt",
-                    "description": "UK Visa Fee Payment Receipt.",
-                    "icon": "Receipt.png"
-                  }
-                ]
-              },
-              {
-                "category": "Financial Documents",
-                "documents": [
-                  {
-                    "name": "Bank Statement",
-                    "description": "Original updated Bank Statement with sufficient bank balance (last 6 months).",
-                    "icon": "Bank.png"
-                  },
-                  {
-                    "name": "Income Tax Returns",
-                    "description": "Income Tax Returns / Form 16 for last 3 years.",
-                    "icon": "ITR.png"
-                  },
-                  {
-                    "name": "Optional Financial Proofs",
-                    "description": "Supporting documents such as Fixed Deposits, Property Investments, Recurring Deposits, etc. (Optional but advisable).",
-                    "icon": "Investments.png"
-                  }
-                ]
-              },
-              {
-                "category": "Occupational Documents",
-                "documents": [
-                  {
-                    "name": "Covering Letter",
-                    "description": "Personal Covering letter (For Employed - Plain paper / For Self-Employed - Letterhead).",
-                    "icon": "Letter.png"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "2 Years Long Term Visa",
-            "maxStay": "6 months per visit",
-            "visaValidity": "2 years",
-            "processingTime": "25-30 working days",
-            "fees": "₹47,899/-",
-            "documentsRequired": []
-          },
-          {
-            "name": "5 Years Long Term Visa",
-            "maxStay": "6 months per visit",
-            "visaValidity": "5 years",
-            "processingTime": "10-15 working days",
-            "fees": "₹88,799/-",
-            "documentsRequired": []
-          },
-          {
-            "name": "10 Years Long Term Visa",
-            "maxStay": "6 months per visit",
-            "visaValidity": "10 years",
-            "processingTime": "25-30 working days",
-            "fees": "₹1,09,899/-",
-            "documentsRequired": []
-          }
-        ]
-      }
-    ]
-  }
-]
-
+      "country": "United Kingdom",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "categories": [
+            {
+              "name": "Standard Visitor Visa",
+              "maxStay": "6 months",
+              "visaValidity": "6 months",
+              "processingTime": "15 working days",
+              "fees": "₹10,000 approx (subject to change)",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport",
+                      "description": "Valid passport with at least one blank page and minimum 6 months validity.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photograph",
+                      "description": "Recent passport-sized photograph as per UK visa guidelines.",
+                      "icon": "Photograph.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statements",
+                      "description": "Bank statements for last 6 months showing sufficient funds for stay and travel.",
+                      "icon": "Bank.png"
+                    },
+                    {
+                      "name": "Income Proof",
+                      "description": "Salary slips or proof of income for last 6 months.",
+                      "icon": "Salary.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Travel Itinerary",
+                      "description": "Confirmed return flight tickets and travel itinerary.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Accommodation Proof",
+                      "description": "Hotel bookings or invitation letter from host.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Additional Documents",
+                  "documents": [
+                    {
+                      "name": "Cover Letter",
+                      "description": "Cover letter explaining purpose of visit and travel plans.",
+                      "icon": "Letter.png"
+                    },
+                    {
+                      "name": "Employment Proof",
+                      "description": "NOC from employer or business registration documents if self-employed.",
+                      "icon": "Document.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Business Visa",
+          "categories": [
+            {
+              "name": "Business Visitor Visa",
+              "maxStay": "6 months",
+              "visaValidity": "6 months",
+              "processingTime": "15 working days",
+              "fees": "₹10,000 approx (subject to change)",
+              "documentsRequired": [
+                {
+                  "category": "Traveller Details",
+                  "documents": [
+                    {
+                      "name": "Passport",
+                      "description": "Valid passport with at least one blank page and minimum 6 months validity.",
+                      "icon": "Passport.png"
+                    },
+                    {
+                      "name": "Photograph",
+                      "description": "Recent passport-sized photograph as per UK visa guidelines.",
+                      "icon": "Photograph.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Business Documents",
+                  "documents": [
+                    {
+                      "name": "Invitation Letter",
+                      "description": "Letter from UK company or organisation detailing business purpose.",
+                      "icon": "Letter.png"
+                    },
+                    {
+                      "name": "Business Registration",
+                      "description": "Proof of business registration and ownership (if applicable).",
+                      "icon": "Document.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Financial Documents",
+                  "documents": [
+                    {
+                      "name": "Bank Statements",
+                      "description": "Bank statements for last 6 months showing sufficient funds.",
+                      "icon": "Bank.png"
+                    }
+                  ]
+                },
+                {
+                  "category": "Travel Details",
+                  "documents": [
+                    {
+                      "name": "Travel Itinerary",
+                      "description": "Confirmed return flight tickets and travel itinerary.",
+                      "icon": "Flight.png"
+                    },
+                    {
+                      "name": "Accommodation Proof",
+                      "description": "Hotel bookings or invitation letter from host.",
+                      "icon": "Hotel.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
 
